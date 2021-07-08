@@ -3,7 +3,7 @@ Creacion de 2 endpoints de alta y consulta de una bd de juguetes
 
 1.- Para correr el proyecto descargue en zip, descomprima o clone directamente desde githug. Abra con el editor, en la consola teclear 'npm i' para que se instalen los modulos correspondientes
 
-2.- Una vez instalado, abre el query que se llama 'DBprueba.sql' para crear la bd correspondiente.
+2.- Una vez instalado, abre el query que se llama 'DBprueba.sql' con sql server para crear la bd correspondiente.
 
 3.- Correr en la consola del editor el servidor 'npm run dev'
 
